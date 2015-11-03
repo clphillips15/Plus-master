@@ -4,3 +4,25 @@ h1 {
     font-size: 70px;
     color: cornflowerblue
 }
+
+
+li{
+display: inline-block;
+
+}
+
+a:link {
+padding: 100px 50px;
+    text-decoration: none;
+    color:azure;
+    font-size: 30px;
+
+}
+
+a:hover {
+    color:dimgray;
+}
+
+
+a:visited {}
+
